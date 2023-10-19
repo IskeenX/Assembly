@@ -1,0 +1,2 @@
+Please extend the program to count to 99. If the counter reach the 99, the program has to exit. 
+Option: Handle overflows by not allowing the counter to be incremented after reaching 99 or decremented after 00. The counter can be increased by pressing the "a" key and decreased by pressing the "d" key.
